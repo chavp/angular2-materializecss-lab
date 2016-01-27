@@ -12,3 +12,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+a.page-title {
+    line-height: 122px;
+    font-size: 48px;
+}
